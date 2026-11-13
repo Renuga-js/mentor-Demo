@@ -1729,7 +1729,7 @@ Book Appointment
    ↓
 Email Confirmation
 ```
-# 19. Final Note to Students
+# 18. Final Note to Students
 
 This project is designed to help students understand how a real-world appointment booking application works.
 
