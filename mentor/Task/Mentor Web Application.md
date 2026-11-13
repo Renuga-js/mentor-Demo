@@ -680,7 +680,7 @@ Status: Pending
 
 The application will send emails when important appointment events occur.
 
-![Email Notification Sample](../../Images/MentorConnect%20Email%20Notification%20Flow.png)
+![Email Notification Sample](../../Images/EmailNotification%20.png)
 
 ```text
 User
@@ -732,7 +732,7 @@ Please check your dashboard.
 
 Users can reset their password using their registered email address.
 
-![Forgot Password Screen](../../Images/Forgot-Password.png)
+![Forgot Password Screen](../../Images/ForgetPassword.png)
 
 ---
 
