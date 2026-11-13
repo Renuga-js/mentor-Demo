@@ -4,7 +4,7 @@ A web-based Mentor Booking Platform developed using ASP.NET Core MVC, C#, Entity
 
 The application allows users to create an account, manage their profile, become mentors, define their availability, discover mentors, and book appointments. Mentors can review and confirm appointment requests, and the application sends email notifications for important appointment events.
 
-![Mentor Application Showcase](Images/Welcome.png)
+![Mentor Application Showcase](../../Images/Welcome.png)
 
 ---
 
@@ -214,7 +214,7 @@ A mentor cannot book an appointment with themselves.
 
 Users can create a new account.
 
-![Registration Screen](Images/Register.png)
+![Registration Screen](../../Images/Register.png)
 
 ### Registration Fields
 
@@ -248,7 +248,7 @@ Users can also log in using:
 - Google
 - Facebook
 
-![Login Screen](Images/Login.png)
+![Login Screen](../../Images/Login.png)
 
 ```text
  │
@@ -286,7 +286,7 @@ Home Screen
 
 After login, users will see the main dashboard.
 
-![Home Screen](Images/Home.png)
+![Home Screen](../../Images/Home.png)
 
 ### Home Screen Features
 
@@ -338,7 +338,7 @@ Azure | Cloud | .NET
 
 Every registered user will have a profile.
 
-![My Profile Screen](Images/Userprofile.png)
+![My Profile Screen](../../Images/Userprofile.png)
 
 ### Profile Information
 
@@ -395,7 +395,7 @@ Set Availability
 
 Mentors will have additional information.
 
-![Mentor Profile Screen](Images/Profile.png)
+![Mentor Profile Screen](../../Images/Profile.png)
 
 
 ### Mentor Information
@@ -437,7 +437,7 @@ Thursday  10:00 AM - 01:00 PM
 
 Mentors can define when they are available for appointments.
 
-![Mentor Availability Screen](Images/Mentor%20Availability%20Dashboard.png)
+![Mentor Availability Screen](../../Images/Mentor%20Availability%20Dashboard.png)
 
 ### Example
 
@@ -465,7 +465,7 @@ Is Active
 
 Users can view all available mentors.
 
-![Mentor List Screen](Images/MentorDashboardUI.png)
+![Mentor List Screen](../../Images/MentorDashboardUI.png)
 
 ```text
 --------------------------------------------------
@@ -519,7 +519,7 @@ Michael Thomas
 
 When the user selects **View Profile**, the mentor details page will display:
 
-![Mentor Details Screen](Images/Mentor-Details.png)
+![Mentor Details Screen](../../Images/Mentor-Details.png)
 
 ```text
 Profile Image
@@ -553,7 +553,7 @@ Tuesday   02:00 PM - 05:00 PM
 
 Users can book an appointment with an available mentor.
 
-![Book Appointment Screen](Images/Book-Appointment.png)
+![Book Appointment Screen](../../Images/Book-Appointment.png)
 
 ### Booking Flow
 
@@ -626,7 +626,7 @@ Appointment completed
 
 Users can see their appointments.
 
-![My Appointments Screen](Images/My-Appointments.png)
+![My Appointments Screen](../../Images/My-Appointments.png)
 
 ```text
 --------------------------------------------------
@@ -656,7 +656,7 @@ Status: Pending
 
 Mentors can view appointments booked with them.
 
-![Mentor Appointments Screen](Images/Mentor-Appointments.png)
+![Mentor Appointments Screen](../../Images/Mentor-Appointments.png)
 
 ```text
 --------------------------------------------------
@@ -680,7 +680,7 @@ Status: Pending
 
 The application will send emails when important appointment events occur.
 
-![Email Notification Sample](Images/MentorConnect%20Email%20Notification%20Flow.png)
+![Email Notification Sample](../../Images/MentorConnect%20Email%20Notification%20Flow.png)
 
 ```text
 User
@@ -732,7 +732,7 @@ Please check your dashboard.
 
 Users can reset their password using their registered email address.
 
-![Forgot Password Screen](Images/Forgot-Password.png)
+![Forgot Password Screen](../../Images/Forgot-Password.png)
 
 ---
 
