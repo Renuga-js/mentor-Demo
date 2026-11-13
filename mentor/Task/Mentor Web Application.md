@@ -25,7 +25,7 @@ The application allows users to create an account, manage their profile, become 
 | Email | SMTP / Email Service |
 | API Testing | Swagger |
 | IDE | Visual Studio |
-| Architecture | Layered Architecture |
+| Architecture | MVC Architecture |
 | Users | User and Mentor |
 | Deployment | Web Server / Cloud Hosting |
 
