@@ -1729,52 +1729,6 @@ Book Appointment
    ↓
 Email Confirmation
 ```
-
-## After the MVP
-
-- Reviews.
-- Ratings.
-- Chat.
-- Notifications.
-- Payment.
-- Admin Dashboard.
-- Reports.
-- Advanced Search.
-- Calendar Integration.
-- Video Meeting.
-
----
-
-# 18. Setup and Execution
-
-## Prerequisites
-
-- Windows 10 / Windows 11 (or any OS supported by .NET).
-- Visual Studio.
-- .NET SDK compatible with the project.
-- SQL Server or SQL Server Express.
-- SQL Server Management Studio (SSMS), optional.
-- Google and Facebook developer accounts for social login, optional.
-- SMTP account or email service for notifications.
-
-## Steps
-
-1. Clone the repository.
-2. Open `MentorApp.sln` in Visual Studio.
-3. Restore NuGet packages.
-4. Configure the development database connection securely.
-5. Run the Entity Framework Core migrations (or execute the SQL creation scripts).
-6. Configure Google and Facebook OAuth credentials using User Secrets.
-7. Configure the SMTP settings using User Secrets.
-8. Build the solution.
-9. Run the application.
-10. Register test users and test the application workflows.
-11. Take screenshots of each screen and save them in the `Images` folder using the file names listed in section 5.
-
-Do not upload connection strings, OAuth secrets, or SMTP passwords to GitHub.
-
----
-
 # 19. Final Note to Students
 
 This project is designed to help students understand how a real-world appointment booking application works.
@@ -1794,7 +1748,6 @@ Understand:
 - How email notifications are sent.
 - How to handle errors and invalid inputs.
 
-During the final project review, every student must be able to explain the modules they developed and the technical decisions they made.
 
 **A successful project is not just an application that runs. It is an application that you understand, can demonstrate, and can confidently explain.**
 
